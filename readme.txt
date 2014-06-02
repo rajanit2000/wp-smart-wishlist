@@ -12,16 +12,19 @@ This is Wish List Plugin for WP eCommerce Site.
 
 == Description ==
 
-This is Wish List Plugin for WP eCommerce Site. 
+This is Wish List Plugin for WP eCommerce Site. Its use to add wishlist like shopping cart. 
 
 = Custom Options =
 	
 	1. Install Plugin
 	2. Add Smart Wish List Widget from your theme
+	3. No need short code
+	4. No need functions
+	5. Just install and add wishlist widget on your sidebar or where you want in your theme 
 
 = Make me a beer =
 
-[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2MS5UWJSWJZYJ)
+If you like this plugin [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2MS5UWJSWJZYJ)
 
 == Installation ==
 
