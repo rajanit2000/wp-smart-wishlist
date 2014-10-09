@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP Smart Wishlist
 Author: <strong>Rajan V</strong>
-Version: 1.0
+Version: 2.0
 Description: This is wishlist plugin for WP-e Commerce Site. It have a widget you can use it very simple steps.
 */
 
@@ -125,15 +125,15 @@ function load_wish_list_callback() {
 	$wishlist = get_user_meta( $user_ID , 'wishlist', true);
 	$array = unserialize ( $wishlist );
 	
-	$html = '<table class="wishlist-table">
+	$html = '<table class="wishlist-table table table-bordered">
 					<thead>
 						<tr>
 							<th>SNo</th>
 							<th>Product Name</th>
 							<th>Image</th>
 							<th>&nbsp</th>
-						<tr>
-					<thead>
+						</tr>
+					</thead>
 					<tbody>
 						';
 						$i = 1;
@@ -155,7 +155,7 @@ function load_wish_list_callback() {
 								<td><a href="'.get_permalink().'">'. get_the_title() .'</a></td>
 								<td>'.$img.'</td>
 								<td><a href="javascript:void();" onclick="removeWishlist('.get_the_ID().')"><img src="' . plugins_url( 'image/remove.png' , __FILE__ ).'" alt="Remove" width="16" height="16" /></a></td>
-							<tr>';
+							</tr>';
 				//Template End
 				$i++;
 			}
