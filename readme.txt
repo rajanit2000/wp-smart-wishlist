@@ -1,6 +1,5 @@
 === WP Smart Wishlist ===
 Contributors: rajanit2000,a2ztechnologies
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2MS5UWJSWJZYJ
 Tags: wishlist, wp-ecommerce, wp-ecommerce wishlist, saved products, products, ecommerce, ecommerce wishlist
 Requires at least: 3.0
 Tested up to: 4.0
