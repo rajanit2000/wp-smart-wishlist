@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Smart Wishlist
-Author: <strong>Rajan V</strong>
+Author: <strong>Rajan V, A2Z Technologies</strong>
 Version: 2.0
 Description: This is wishlist plugin for WP-e Commerce Site. It have a widget you can use it very simple steps.
 */

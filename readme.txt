@@ -1,5 +1,5 @@
 === WP Smart Wishlist ===
-Contributors: rajanit2000
+Contributors: rajanit2000,a2ztechnologies
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2MS5UWJSWJZYJ
 Tags: wishlist, wp-ecommerce, wp-ecommerce wishlist, saved products, products, ecommerce, ecommerce wishlist
 Requires at least: 3.0
@@ -21,10 +21,6 @@ This is Wish List Plugin for WP eCommerce Site. Its use to add wishlist like sho
 	3. No need short code
 	4. No need functions
 	5. Just install and add wishlist widget on your sidebar or where you want in your theme 
-
-= Make me a beer =
-
-If you like this plugin [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2MS5UWJSWJZYJ)
 
 == Installation ==
 
